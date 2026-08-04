@@ -1,4 +1,8 @@
 {
+  "workbench.experimental.modernUI": false,
+  "window.titleBarStyle": "custom",
+  "workbench.statusBar.visible": true,
+
   "workbench.colorCustomizations": {
     // 标题栏
     "titleBar.activeBackground": "#2E7A6E",
