@@ -1,0 +1,36 @@
+{
+  "workbench.colorCustomizations": {
+    // 标题栏
+    "titleBar.activeBackground": "#2E7A6E",
+    "titleBar.activeForeground": "#EDECEA",
+    "titleBar.inactiveBackground": "#255F56",
+    "titleBar.inactiveForeground": "#9DA89F",
+
+    // 状态栏
+    "statusBar.background": "#2E7A6E",
+    "statusBar.foreground": "#EDECEA",
+    "statusBar.noFolderBackground": "#2E7A6E",
+    "statusBar.debuggingBackground": "#3D9688",
+
+    // Activity Bar
+    "activityBar.background": "#1E2320",
+    "activityBar.foreground": "#4DB8A8",
+    "activityBar.activeBorder": "#4DB8A8",
+
+    // Side Bar
+    "sideBar.border": "#2A312E",
+
+    // Editor
+    "editorGroup.border": "#2A312E",
+
+    // Tabs
+    "tab.activeBorderTop": "#4DB8A8",
+    "tab.activeForeground": "#EDECEA",
+
+    // Panel
+    "panel.border": "#2A312E",
+
+    // Terminal
+    "terminal.border": "#2A312E"
+  }
+}
