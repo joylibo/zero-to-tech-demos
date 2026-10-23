@@ -26,7 +26,7 @@
 
 ```html
 <script src="js/cards.js"></script>  <!-- cards 跑的时候 anime 还没加载 -->
-<script src="https://cdn.jsdelivr.net/npm/animejs@4/lib/anime.iife.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/animejs@4.1.4/lib/anime.iife.min.js"></script>
 <script src="js/score.js"></script>
 <script src="js/nav.js"></script>
 ```
@@ -132,7 +132,7 @@ initScoreAnim();
 打开 `index.html`，把底部那四行 `<script>`：
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/animejs@4/lib/anime.iife.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/animejs@4.1.4/lib/anime.iife.min.js"></script>
 <script src="js/cards.js"></script>
 <script src="js/score.js"></script>
 <script src="js/nav.js"></script>
